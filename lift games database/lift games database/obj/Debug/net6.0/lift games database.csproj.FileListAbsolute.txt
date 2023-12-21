@@ -1,0 +1,68 @@
+C:\Users\pokiz\source\repos\lift games database\lift games database\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\pokiz\source\repos\lift games database\lift games database\bin\Debug\net6.0\appsettings.json
+C:\Users\pokiz\source\repos\lift games database\lift games database\bin\Debug\net6.0\lift games database.exe
+C:\Users\pokiz\source\repos\lift games database\lift games database\bin\Debug\net6.0\lift games database.deps.json
+C:\Users\pokiz\source\repos\lift games database\lift games database\bin\Debug\net6.0\lift games database.runtimeconfig.json
+C:\Users\pokiz\source\repos\lift games database\lift games database\bin\Debug\net6.0\lift games database.dll
+C:\Users\pokiz\source\repos\lift games database\lift games database\bin\Debug\net6.0\lift games database.pdb
+C:\Users\pokiz\source\repos\lift games database\lift games database\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+C:\Users\pokiz\source\repos\lift games database\lift games database\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\pokiz\source\repos\lift games database\lift games database\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\pokiz\source\repos\lift games database\lift games database\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\pokiz\source\repos\lift games database\lift games database\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\pokiz\source\repos\lift games database\lift games database\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\pokiz\source\repos\lift games database\lift games database\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\pokiz\source\repos\lift games database\lift games database\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\pokiz\source\repos\lift games database\lift games database\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\pokiz\source\repos\lift games database\lift games database\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\pokiz\source\repos\lift games database\lift games database\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\pokiz\source\repos\lift games database\lift games database\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\pokiz\source\repos\lift games database\lift games database\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\pokiz\source\repos\lift games database\lift games database\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\pokiz\source\repos\lift games database\lift games database\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\pokiz\source\repos\lift games database\lift games database\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\pokiz\source\repos\lift games database\lift games database\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\pokiz\source\repos\lift games database\lift games database\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\pokiz\source\repos\lift games database\lift games database\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\pokiz\source\repos\lift games database\lift games database\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\pokiz\source\repos\lift games database\lift games database\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\pokiz\source\repos\lift games database\lift games database\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\pokiz\source\repos\lift games database\lift games database\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\pokiz\source\repos\lift games database\lift games database\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pokiz\source\repos\lift games database\lift games database\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\pokiz\source\repos\lift games database\lift games database\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\pokiz\source\repos\lift games database\lift games database\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\pokiz\source\repos\lift games database\lift games database\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\pokiz\source\repos\lift games database\lift games database\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pokiz\source\repos\lift games database\lift games database\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pokiz\source\repos\lift games database\lift games database\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pokiz\source\repos\lift games database\lift games database\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pokiz\source\repos\lift games database\lift games database\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\pokiz\source\repos\lift games database\lift games database\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\pokiz\source\repos\lift games database\lift games database\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\pokiz\source\repos\lift games database\lift games database\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\pokiz\source\repos\lift games database\lift games database\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pokiz\source\repos\lift games database\lift games database\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\pokiz\source\repos\lift games database\lift games database\obj\Debug\net6.0\lift games database.csproj.AssemblyReference.cache
+C:\Users\pokiz\source\repos\lift games database\lift games database\obj\Debug\net6.0\lift games database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pokiz\source\repos\lift games database\lift games database\obj\Debug\net6.0\lift games database.AssemblyInfoInputs.cache
+C:\Users\pokiz\source\repos\lift games database\lift games database\obj\Debug\net6.0\lift games database.AssemblyInfo.cs
+C:\Users\pokiz\source\repos\lift games database\lift games database\obj\Debug\net6.0\lift games database.csproj.CoreCompileInputs.cache
+C:\Users\pokiz\source\repos\lift games database\lift games database\obj\Debug\net6.0\lift games database.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\pokiz\source\repos\lift games database\lift games database\obj\Debug\net6.0\lift games database.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pokiz\source\repos\lift games database\lift games database\obj\Debug\net6.0\staticwebassets\msbuild.lift games database.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\pokiz\source\repos\lift games database\lift games database\obj\Debug\net6.0\staticwebassets\msbuild.build.lift games database.props
+C:\Users\pokiz\source\repos\lift games database\lift games database\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.lift games database.props
+C:\Users\pokiz\source\repos\lift games database\lift games database\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.lift games database.props
+C:\Users\pokiz\source\repos\lift games database\lift games database\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\pokiz\source\repos\lift games database\lift games database\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\pokiz\source\repos\lift games database\lift games database\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\pokiz\source\repos\lift games database\lift games database\obj\Debug\net6.0\scopedcss\bundle\lift games database.styles.css
+C:\Users\pokiz\source\repos\lift games database\lift games database\obj\Debug\net6.0\lift games database.csproj.CopyComplete
+C:\Users\pokiz\source\repos\lift games database\lift games database\obj\Debug\net6.0\lift games database.dll
+C:\Users\pokiz\source\repos\lift games database\lift games database\obj\Debug\net6.0\refint\lift games database.dll
+C:\Users\pokiz\source\repos\lift games database\lift games database\obj\Debug\net6.0\lift games database.pdb
+C:\Users\pokiz\source\repos\lift games database\lift games database\obj\Debug\net6.0\lift games database.genruntimeconfig.cache
+C:\Users\pokiz\source\repos\lift games database\lift games database\obj\Debug\net6.0\ref\lift games database.dll
+C:\Users\pokiz\source\repos\lift games database\lift games database\bin\Debug\net6.0\Humanizer.dll
+C:\Users\pokiz\source\repos\lift games database\lift games database\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
